@@ -4,9 +4,6 @@ import pandas as pd
 import tqdm
 import time
 
-import matplotlib.pyplot as plt
-# %matplotlib inline
-
 import os
 
 
